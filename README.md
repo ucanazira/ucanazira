@@ -32,10 +32,6 @@
 [![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?&style=flat&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com/)  
 
-## 🏆 GitHub Awards
-
-![GitHub Awards](https://github-awards.com/api?username=ucanazira&show_icons=true&theme=radical)
-
 ---
 ### 📊 GitHub Stats
 
