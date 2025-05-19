@@ -24,31 +24,13 @@
 
 ---
 ### 🚀Languages and Tools
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><br>HTML5
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/><br>CSS3
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br>PHP
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/><br>Photoshop
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/><br>After Effects
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/><br>Figma
-    </td>
-  </tr>
-</table>
+[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)](https://www.php.net/)  
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+[![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?&style=flat&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com/)  
 
 ---
 ### 📊 GitHub Stats
