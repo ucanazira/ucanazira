@@ -1,4 +1,6 @@
-# Hi, I'm Uca Nazira 👋
+<h1 align="center">
+  Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif" width="30"/> I'm Uca Nazira
+</h1>
 
 I'm passionate about creating beautiful digital experiences combining my love for art and technology.
 
