@@ -31,7 +31,9 @@
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
 [![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?&style=flat&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com/)  
-[![MediBang Paint](https://img.shields.io/badge/MediBang_Paint-FF6F61?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIyOCIgZmlsbD0iI2ZmNmY2MSIvPgo8L3N2Zz4=)](https://medibangpaint.com/)
+[![MediBang Paint](https://img.shields.io/badge/MediBang_Paint-FF6F61?style=flat&logo=https://yourdomain.com/path-to-medibang-logo.svg)](https://medibangpaint.com/)
+
+
 
 
 ---
