@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif" width="30"/> I'm Uca Nazira
 </h1>
-
+<p align="center">
+  <img src="https://github.com/ucanazira/ucanazira/blob/main/image-banner.png?raw=true" alt="Devuca Banner" width="100%" />
+</p>
 <p align="center">
   I'm passionate about creating beautiful digital experiences combining my love for art and technology.
 </p>
