@@ -1,8 +1,10 @@
 <h1 align="center">
-  Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif" width="30"/> I'm Uca Nazira
+  Hi! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif" width="30"/> I'm Uca Nazira
 </h1>
 
-I'm passionate about creating beautiful digital experiences combining my love for art and technology.
+<p align="center">
+  I'm passionate about creating beautiful digital experiences combining my love for art and technology.
+</p>
 
 - 🔭 Currently working on my **portfolio project**
 - 🌱 Learning and improving my skills in **UI/UX design**, **web development**, and **animation**
