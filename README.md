@@ -8,11 +8,11 @@
   I'm passionate about creating beautiful digital experiences combining my love for art and technology.
 </p>
 
-- 🔭 Currently working on my **portfolio project**
-- 🌱 Learning and improving my skills in **UI/UX design**, **web development**, and **animation**
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Photoshop, Adobe After Effects**
-- 🎨 I love **drawing**, **digital design**, and creating **animated graphics**
-- 📫 Reach me at [uzagraph@gmail.com](mailto:uzagraph@gmail.com)
+🔭 Currently working on my **portfolio project**
+🌱 Learning and improving my skills in **UI/UX design**, **web development**, and **animation**
+💬 Ask me about **HTML, CSS, JavaScript, PHP, Photoshop, Adobe After Effects**
+🎨 I love **drawing**, **digital design**, and creating **animated graphics**
+📫 Reach me at [uzagraph@gmail.com](mailto:uzagraph@gmail.com)
 
 ---
 
